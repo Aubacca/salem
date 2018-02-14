@@ -2,4 +2,4 @@
 
 Simple project for salem which can be refactored and distributed at ng.
 
-# List of all Components.
+# List of all Components
